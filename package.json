@@ -1,0 +1,19 @@
+{
+  "name": "curso-closures-scopes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andres87mx/curso-closures-scopes-js.git"
+  },
+  "author": "andres87aldos@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andres87mx/curso-closures-scopes-js/issues"
+  },
+  "homepage": "https://github.com/andres87mx/curso-closures-scopes-js#readme"
+}
